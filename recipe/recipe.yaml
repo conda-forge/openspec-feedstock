@@ -1,5 +1,5 @@
 context:
-  version: "2.0.0"
+  version: "2.1.0"
 
 package:
   name: openspec
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/Fission-AI/OpenSpec/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 7d8b15d1bea7ddb1a09dc6d026eec0bd257e666e0a5922b308179178f007ee55
+  sha256: 5404fdf7907bbd8c7e4868a6cf46d736b851876d65a4138feda8f1bcaeab4c83
 
 build:
   script:
